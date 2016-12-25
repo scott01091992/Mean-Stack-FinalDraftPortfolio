@@ -1,0 +1,53 @@
+#closing {
+  position: relative; }
+  #closing .transition {
+    display: flex;
+    align-items: center;
+    height: 10em;
+    width: 100%; }
+    #closing .transition h2 {
+      font-family: 'scopeOne';
+      text-indent: -.25em;
+      font-size: 1.25em;
+      padding: 0;
+      margin: auto; }
+  #closing h3 {
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+    font-family: 'passionOne';
+    font-size: 3em; }
+  #closing #contactme {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, -50%); }
+    #closing #contactme .contact {
+      display: flex;
+      align-items: center; }
+      #closing #contactme .contact img {
+        height: 2em;
+        width: 2em;
+        padding: 1em;
+        display: inline-block; }
+      #closing #contactme .contact h4 {
+        display: inline-block;
+        font-family: 'scopeOne'; }
+      #closing #contactme .contact a {
+        text-decoration: none;
+        color: black;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        align-items: center; }
+        #closing #contactme .contact a img {
+          height: 2em;
+          width: 2em;
+          padding: 1em;
+          display: inline-block; }
+        #closing #contactme .contact a h4 {
+          display: inline-block;
+          font-family: 'scopeOne'; }
+  #closing img {
+    width: 100%; }

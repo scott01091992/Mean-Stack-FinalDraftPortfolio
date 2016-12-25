@@ -1,0 +1,305 @@
+@font-face {
+  font-family: 'passionOne';
+  src: url("../assets/passionone-regular-webfont.woff2") format("woff2"), url("../assets/passionone-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'scopeOne';
+  src: url("../assets/scopeone-regular-webfont.woff2") format("woff2"), url("../assets/scopeone-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'josefin';
+  src: url("../assets/josefinsans-thin-webfont.woff2") format("woff2"), url("../assets/josefinsans-thin-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+body {
+  margin: 0; }
+
+#landing {
+  background-image: url("../assets/background.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; }
+  #landing img {
+    height: 60%; }
+
+#design {
+  position: relative;
+  background-color: white;
+  padding-bottom: 10em;
+  box-shadow: 0.1em 0 .1em .1em black; }
+  #design .transition {
+    display: flex;
+    align-items: center;
+    height: 15em;
+    width: 100%; }
+    #design .transition h2 {
+      font-family: 'scopeOne';
+      text-indent: -.25em;
+      font-size: 1.25em;
+      padding: 0;
+      margin: auto; }
+  #design #designexamples {
+    position: relative;
+    height: 50em;
+    max-width: 1300px;
+    margin: auto; }
+    #design #designexamples p {
+      width: 20em;
+      font-family: 'josefin';
+      float: right;
+      margin: 0;
+      text-align: right;
+      font-weight: bold; }
+    #design #designexamples .designexample {
+      height: 23em;
+      position: absolute;
+      width: 50%;
+      box-shadow: 0 0 .1em .1em black; }
+      #design #designexamples .designexample img {
+        height: 100%;
+        width: 100%; }
+      #design #designexamples .designexample h2 {
+        margin: 0;
+        font-family: passionOne;
+        font-size: 2em;
+        text-transform: uppercase; }
+    #design #designexamples #designexampleone {
+      top: 0;
+      left: 0; }
+    #design #designexamples #designexampletwo {
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%); }
+    #design #designexamples #designexamplethree {
+      bottom: 0;
+      right: 0; }
+
+#development .transition {
+  display: flex;
+  align-items: center;
+  height: 15em;
+  width: 100%; }
+  #development .transition h2 {
+    font-family: 'scopeOne';
+    text-indent: -.25em;
+    font-size: 1.25em;
+    padding: 0;
+    margin: auto; }
+
+#development #development-examples {
+  position: relative;
+  max-width: 1300px;
+  margin: auto; }
+  #development #development-examples .devexamples {
+    margin-bottom: 5em; }
+    #development #development-examples .devexamples img {
+      width: 75%;
+      display: inline-block;
+      box-shadow: 0 0 .1em .1em black; }
+    #development #development-examples .devexamples div {
+      width: 24%;
+      display: inline-block;
+      float: right;
+      padding-left: 1%; }
+      #development #development-examples .devexamples div h3 {
+        display: block;
+        margin: 0;
+        font-family: 'passionOne';
+        font-size: 1.7em; }
+      #development #development-examples .devexamples div p {
+        display: inline-block;
+        font-family: 'josefin';
+        font-weight: bold; }
+        #development #development-examples .devexamples div p a {
+          color: black; }
+    #development #development-examples .devexamples ul {
+      display: block;
+      -webkit-padding-start: 0; }
+      #development #development-examples .devexamples ul li {
+        display: inline-block;
+        padding: 0 2em 0 0;
+        text-decoration: none;
+        font-family: 'passionOne'; }
+
+#skills .transition {
+  display: flex;
+  align-items: center;
+  height: 5em;
+  width: 100%; }
+  #skills .transition h2 {
+    font-family: 'scopeOne';
+    text-indent: -.25em;
+    font-size: 1.25em;
+    padding: 0;
+    margin: auto; }
+
+#skills .skillsexamples {
+  position: relative;
+  max-width: 1000px;
+  margin: 5em auto 0; }
+  #skills .skillsexamples .skill {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2em; }
+    #skills .skillsexamples .skill img {
+      display: inline-block;
+      margin: 2em;
+      width: 2em;
+      height: 2em; }
+    #skills .skillsexamples .skill .skilldata {
+      display: inline-block;
+      width: 100%; }
+      #skills .skillsexamples .skill .skilldata h3 {
+        font-family: 'passionOne';
+        margin: .5em 0; }
+      #skills .skillsexamples .skill .skilldata #barfrontend {
+        width: 90%;
+        background-color: black;
+        height: 1.5em; }
+      #skills .skillsexamples .skill .skilldata #barbackend {
+        width: 65%;
+        background-color: black;
+        height: 1.5em; }
+      #skills .skillsexamples .skill .skilldata #bardesign {
+        width: 85%;
+        background-color: black;
+        height: 1.5em; }
+      #skills .skillsexamples .skill .skilldata #barstrategy {
+        width: 75%;
+        background-color: black;
+        height: 1.5em; }
+      #skills .skillsexamples .skill .skilldata #barcommunication {
+        width: 80%;
+        background-color: black;
+        height: 1.5em; }
+      #skills .skillsexamples .skill .skilldata h4 {
+        font-family: 'josefin';
+        font-weight: bold;
+        margin: .5em 0; }
+
+#closing {
+  position: relative; }
+  #closing .transition {
+    display: flex;
+    align-items: center;
+    height: 10em;
+    width: 100%; }
+    #closing .transition h2 {
+      font-family: 'scopeOne';
+      text-indent: -.25em;
+      font-size: 1.25em;
+      padding: 0;
+      margin: auto; }
+  #closing h3 {
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+    font-family: 'passionOne';
+    font-size: 3em; }
+  #closing #contactme {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, -50%); }
+    #closing #contactme .contact {
+      display: flex;
+      align-items: center; }
+      #closing #contactme .contact img {
+        height: 2em;
+        width: 2em;
+        padding: 1em;
+        display: inline-block; }
+      #closing #contactme .contact h4 {
+        display: inline-block;
+        font-family: 'scopeOne'; }
+      #closing #contactme .contact a {
+        text-decoration: none;
+        color: black;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        align-items: center; }
+        #closing #contactme .contact a img {
+          height: 2em;
+          width: 2em;
+          padding: 1em;
+          display: inline-block; }
+        #closing #contactme .contact a h4 {
+          display: inline-block;
+          font-family: 'scopeOne'; }
+  #closing img {
+    width: 100%; }
+
+@media screen and (max-width: 1450px) {
+  #closing h3 {
+    left: auto;
+    top: auto;
+    position: relative;
+    transform: none;
+    width: 60%;
+    margin: auto; } }
+
+@media screen and (max-width: 1350px) {
+  #designexamples {
+    margin: auto 2em !important; }
+  #development-examples {
+    margin: auto 2em !important; } }
+
+@media screen and (max-width: 1250px) {
+  .designexample {
+    height: auto !important; }
+    .designexample h2 {
+      margin: 0 0 0 .2em !important; }
+  .devexamples img {
+    width: 100% !important; }
+  .devexamples div {
+    width: auto !important;
+    display: block !important;
+    float: none !important; }
+    .devexamples div h3 {
+      margin: 1em 0 !important; }
+    .devexamples div p {
+      margin: 0; }
+  .devexamples ul li {
+    padding: 0 1em !important; } }
+
+@media screen and (max-width: 1000px) {
+  .designexample {
+    margin-bottom: 1em;
+    position: relative !important;
+    transform: none !important;
+    top: auto !important;
+    bottom: auto !important;
+    right: auto !important;
+    left: auto !important; }
+  #contactme {
+    transform: translate(-50%, -15%) !important; } }
+
+@media screen and (max-width: 875px) {
+  #designexamples {
+    height: auto !important; }
+    #designexamples p {
+      display: none !important; }
+    #designexamples .designexample {
+      width: auto !important; }
+  .transition h2 {
+    padding: 0 1em !important; }
+  #contactme {
+    position: relative !important;
+    bottom: auto !important;
+    left: auto !important;
+    transform: none !important;
+    width: 75% !important;
+    margin: auto !important; }
+  #closing h3 {
+    font-size: 2em;
+    margin: 1em auto; } }

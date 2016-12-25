@@ -1,0 +1,46 @@
+#development .transition {
+  display: flex;
+  align-items: center;
+  height: 15em;
+  width: 100%; }
+  #development .transition h2 {
+    font-family: 'scopeOne';
+    text-indent: -.25em;
+    font-size: 1.25em;
+    padding: 0;
+    margin: auto; }
+
+#development #development-examples {
+  position: relative;
+  max-width: 1300px;
+  margin: auto; }
+  #development #development-examples .devexamples {
+    margin-bottom: 5em; }
+    #development #development-examples .devexamples img {
+      width: 75%;
+      display: inline-block;
+      box-shadow: 0 0 .1em .1em black; }
+    #development #development-examples .devexamples div {
+      width: 24%;
+      display: inline-block;
+      float: right;
+      padding-left: 1%; }
+      #development #development-examples .devexamples div h3 {
+        display: block;
+        margin: 0;
+        font-family: 'passionOne';
+        font-size: 1.7em; }
+      #development #development-examples .devexamples div p {
+        display: inline-block;
+        font-family: 'josefin';
+        font-weight: bold; }
+        #development #development-examples .devexamples div p a {
+          color: black; }
+    #development #development-examples .devexamples ul {
+      display: block;
+      -webkit-padding-start: 0; }
+      #development #development-examples .devexamples ul li {
+        display: inline-block;
+        padding: 0 2em 0 0;
+        text-decoration: none;
+        font-family: 'passionOne'; }

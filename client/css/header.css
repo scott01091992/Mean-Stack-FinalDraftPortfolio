@@ -1,0 +1,24 @@
+#fixed-header nav {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  right: 0; }
+  #fixed-header nav ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 0px;
+    margin-right: 2em; }
+    #fixed-header nav ul li {
+      text-decoration: none;
+      list-style-type: none;
+      color: #dc6c05;
+      font-size: .9em;
+      text-transform: uppercase;
+      padding: 1.5em;
+      font-family: 'qRegular'; }

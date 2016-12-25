@@ -1,0 +1,21 @@
+{
+  "name": "portfoliofinal",
+  "version": "1.0.0",
+  "description": "my last attempt at a portfolio design",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brandon scott",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-data": "^1.2.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^3.0.0",
+    "mongoose": "^4.7.2",
+    "nodemailer": "^2.7.0"
+  }
+}
