@@ -10,6 +10,6 @@ app.use(express.static(path.join(__dirname,'./client')));
 
 app.use(bodyParser.json());
 
-app.listen(6776, function(){
- console.log("listening on port 6776");
+app.listen(8000, function(){
+ console.log("listening on port 8000");
 });

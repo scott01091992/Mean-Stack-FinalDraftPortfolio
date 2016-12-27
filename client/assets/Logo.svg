@@ -1,98 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 469.9 469.91">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-      }
-
-      .cls-2 {
-        font-size: 44.81px;
-        font-family: PassionOne-Regular, Passion;
-        font-weight: 700;
-      }
-
-      .cls-3 {
-        clip-path: url(#clip-path);
-      }
-
-      .cls-4 {
-        font-size: 255.48px;
-        stroke: #fff;
-        stroke-miterlimit: 10;
-      }
-
-      .cls-4, .cls-6 {
-        font-family: AGaramondPro-Regular, Adobe Garamond Pro;
-      }
-
-      .cls-5 {
-        font-size: 10.02px;
-      }
-
-      .cls-6 {
-        font-size: 258.12px;
-      }
-    </style>
-    <clipPath id="clip-path">
-      <circle class="cls-1" cx="234.96" cy="234.95" r="120.39"/>
-    </clipPath>
-  </defs>
-  <title>Logo</title>
-  <g id="Layer_2" data-name="Layer 2">
-    <g id="Layer_1-2" data-name="Layer 1">
-      <circle cx="234.96" cy="234.95" r="127.47"/>
-      <text class="cls-2" transform="matrix(0.72, -0.69, 0.69, 0.72, 131.74, 148.85)">W</text>
-      <text class="cls-2" transform="translate(153.27 129.02) rotate(-33.99)">E</text>
-      <text class="cls-2" transform="translate(167.38 119.28) rotate(-25.62)">B</text>
-      <text class="cls-2" transform="matrix(0.94, -0.33, 0.33, 0.94, 186.78, 110.32)"> </text>
-      <text class="cls-2" transform="matrix(0.98, -0.21, 0.21, 0.98, 194.75, 107.06)">D</text>
-      <text class="cls-2" transform="translate(216.77 102.35) rotate(-3.88)">E</text>
-      <text class="cls-2" transform="translate(233.91 101.09) rotate(3.69)">S</text>
-      <text class="cls-2" transform="translate(252.21 102.42) rotate(10.1)">I</text>
-      <text class="cls-2" transform="translate(263.7 104.06) rotate(17.33)">G</text>
-      <text class="cls-2" transform="translate(284.83 110.51) rotate(26.97)">N</text>
-      <text class="cls-2" transform="translate(305.43 121.16) rotate(35.64)">E</text>
-      <text class="cls-2" transform="translate(319.46 130.95) rotate(43.88)">R</text>
-      <text class="cls-2" transform="translate(334.61 145.96) rotate(50.32)"> </text>
-      <text class="cls-2" transform="matrix(0.53, 0.85, -0.85, 0.53, 340.55, 152.06)">&amp;</text>
-      <text class="cls-2" transform="matrix(0.42, 0.91, -0.91, 0.42, 354.19, 174.67)"> </text>
-      <text class="cls-2" transform="translate(357.96 182.77) rotate(68.97)"> </text>
-      <text class="cls-2" transform="translate(361.76 190.37) rotate(77.16)">W</text>
-      <text class="cls-2" transform="translate(367.85 219.04) rotate(87.11)">E</text>
-      <text class="cls-2" transform="matrix(-0.09, 1, -1, -0.09, 368.93, 236.13)">B</text>
-      <text class="cls-2" transform="translate(366.65 257.39) rotate(101.69)"> </text>
-      <text class="cls-2" transform="translate(365.35 265.92) rotate(108.37)">D</text>
-      <text class="cls-2" transform="translate(358.13 287.27) rotate(116.84)">E</text>
-      <text class="cls-2" transform="matrix(-0.58, 0.82, -0.82, -0.58, 350.62, 302.64)">V</text>
-      <text class="cls-2" transform="matrix(-0.69, 0.73, -0.73, -0.69, 338.11, 320.24)">E</text>
-      <text class="cls-2" transform="matrix(-0.77, 0.64, -0.64, -0.77, 326.23, 332.75)">L</text>
-      <text class="cls-2" transform="matrix(-0.85, 0.52, -0.52, -0.85, 314.67, 342.71)">O</text>
-      <text class="cls-2" transform="translate(295.03 354.64) rotate(157.74)">P</text>
-      <text class="cls-2" transform="translate(276.66 362.13) rotate(165.72)">E</text>
-      <text class="cls-2" transform="translate(260.15 366.56) rotate(173.95)">R</text>
-      <text class="cls-2" transform="translate(238.89 368.5) rotate(-179.61)"> </text>
-      <text class="cls-2" transform="matrix(-0.99, -0.1, 0.1, -0.99, 230.17, 368.68)">-</text>
-      <text class="cls-2" transform="matrix(-0.98, -0.2, 0.2, -0.98, 212.91, 366.7)"> </text>
-      <text class="cls-2" transform="translate(204.36 365.37) rotate(-162.08)">B</text>
-      <text class="cls-2" transform="matrix(-0.89, -0.45, 0.45, -0.89, 184.25, 358.95)">R</text>
-      <text class="cls-2" transform="translate(165.45 349.52) rotate(-143.99)">A</text>
-      <text class="cls-2" transform="translate(148.22 337.21) rotate(-134.45)">N</text>
-      <text class="cls-2" transform="matrix(-0.57, -0.82, 0.82, -0.57, 132.01, 320.78)">D</text>
-      <text class="cls-2" transform="translate(119.13 302.42) rotate(-115.13)">O</text>
-      <text class="cls-2" transform="matrix(-0.26, -0.96, 0.96, -0.26, 109.29, 281.7)">N</text>
-      <text class="cls-2" transform="translate(103.53 259.06) rotate(-98.34)"> </text>
-      <text class="cls-2" transform="matrix(-0.04, -1, 1, -0.04, 101.99, 250.49)">S</text>
-      <text class="cls-2" transform="translate(101.15 232.3) rotate(-84.89)">C</text>
-      <text class="cls-2" transform="translate(102.41 215) rotate(-76.29)">O</text>
-      <text class="cls-2" transform="translate(108.01 192.62) rotate(-67.68)">T</text>
-      <text class="cls-2" transform="translate(114.58 176.46) rotate(-60.2)">T</text>
-      <g>
-        <circle class="cls-1" cx="234.96" cy="234.95" r="120.39"/>
-        <g class="cls-3">
-          <text class="cls-4" transform="translate(113.86 278.3)">B<tspan class="cls-5" x="154.56" y="0"> </tspan></text>
-          <text class="cls-6" transform="translate(218.23 366.18)">S</text>
-        </g>
-      </g>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 469.9 469.9" style="enable-background:new 0 0 469.9 469.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'PassionOne-Bold';}
+	.st1{font-size:47.7602px;}
+	.st2{fill:#FFFFFF;}
+	.st3{clip-path:url(#SVGID_2_);}
+	.st4{font-family:'AGaramondPro-Regular';}
+	.st5{font-size:309.8219px;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st7{font-size:313.0235px;}
+</style>
+<title>Logo</title>
+<g id="Layer_1-2">
+	<circle cx="234.9" cy="235.1" r="154.6"/>
+	<text transform="matrix(0.722 -0.6919 0.6919 0.722 113.211 132.5204)" class="st0 st1">W</text>
+	<text transform="matrix(0.8291 -0.559 0.559 0.8291 136.8332 109.6132)" class="st0 st1">E</text>
+	<text transform="matrix(0.9017 -0.4324 0.4324 0.9017 154.6604 97.4669)" class="st0 st1">B</text>
+	<text transform="matrix(0.9778 -0.2095 0.2095 0.9778 187.103 82.9814)" class="st0 st1">D</text>
+	<text transform="matrix(0.9977 -6.766704e-02 6.766704e-02 0.9977 212.3082 77.3985)" class="st0 st1">E</text>
+	<text transform="matrix(0.9979 6.435814e-02 -6.435814e-02 0.9979 233.8251 75.9047)" class="st0 st1">S</text>
+	<text transform="matrix(0.9845 0.1754 -0.1754 0.9845 255.5172 77.48)" class="st0 st1">I</text>
+	<text transform="matrix(0.9546 0.2979 -0.2979 0.9546 267.9414 79.0278)" class="st0 st1">G</text>
+	<text transform="matrix(0.8912 0.4535 -0.4535 0.8912 294.0146 87.0713)" class="st0 st1">N</text>
+	<text transform="matrix(0.8127 0.5827 -0.5827 0.8127 318.4141 99.6855)" class="st0 st1">E</text>
+	<text transform="matrix(0.7208 0.6932 -0.6932 0.7208 335.9314 111.9796)" class="st0 st1">R</text>
+	<text transform="matrix(0.5291 0.8486 -0.8486 0.5291 360.0091 136.2835)" class="st0 st1">&amp;</text>
+	<text transform="matrix(0.2222 0.975 -0.975 0.2222 385.1342 181.663)" class="st0 st1">W</text>
+	<text transform="matrix(5.041863e-02 0.9987 -0.9987 5.041863e-02 392.3448 213.9164)" class="st0 st1">E</text>
+	<text transform="matrix(-8.963770e-02 0.996 -0.996 -8.963770e-02 393.6258 235.8594)" class="st0 st1">B</text>
+	<text transform="matrix(-0.3152 0.949 -0.949 -0.3152 389.3827 271.1434)" class="st0 st1">D</text>
+	<text transform="matrix(-0.4515 0.8923 -0.8923 -0.4515 380.8323 296.4314)" class="st0 st1">E</text>
+	<text transform="matrix(-0.5775 0.8164 -0.8164 -0.5775 371.9382 314.6382)" class="st0 st1">V</text>
+	<text transform="matrix(-0.6869 0.7267 -0.7267 -0.6869 358.8226 334.1859)" class="st0 st1">E</text>
+	<text transform="matrix(-0.769 0.6392 -0.6392 -0.769 343.4475 350.0999)" class="st0 st1">L</text>
+	<text transform="matrix(-0.853 0.5219 -0.5219 -0.853 328.157 362.3968)" class="st0 st1">O</text>
+	<text transform="matrix(-0.9255 0.3788 -0.3788 -0.9255 305.4953 376.532)" class="st0 st1">P</text>
+	<text transform="matrix(-0.9691 0.2467 -0.2467 -0.9691 284.3366 385.1033)" class="st0 st1">E</text>
+	<text transform="matrix(-0.9944 0.1054 -0.1054 -0.9944 263.2841 390.6509)" class="st0 st1">R</text>
+	<text transform="matrix(-0.9949 -0.1005 0.1005 -0.9949 229.2726 392.8595)" class="st0 st1">-</text>
+	<text transform="matrix(-0.9515 -0.3077 0.3077 -0.9515 202.4015 391.6406)" class="st0 st1">B</text>
+	<text transform="matrix(-0.8924 -0.4512 0.4512 -0.8924 177.7816 384.0325)" class="st0 st1">R</text>
+	<text transform="matrix(-0.8089 -0.5879 0.5879 -0.8089 153.0137 370.6646)" class="st0 st1">A</text>
+	<text transform="matrix(-0.7003 -0.7139 0.7139 -0.7003 131.2078 354.7836)" class="st0 st1">N</text>
+	<text transform="matrix(-0.5708 -0.8211 0.8211 -0.5708 112.0077 334.8242)" class="st0 st1">D</text>
+	<text transform="matrix(-0.4247 -0.9053 0.9053 -0.4247 97.0517 312.6781)" class="st0 st1">O</text>
+	<text transform="matrix(-0.2614 -0.9652 0.9652 -0.2614 85.3952 288.435)" class="st0 st1">N</text>
+	<text transform="matrix(-3.996804e-02 -0.9992 0.9992 -3.996804e-02 77.4483 252.8685)" class="st0 st1">S</text>
+	<text transform="matrix(8.906813e-02 -0.996 0.996 8.906813e-02 76.456 231.3249)" class="st0 st1">C</text>
+	<text transform="matrix(0.237 -0.9715 0.9715 0.237 77.9477 210.8364)" class="st0 st1">O</text>
+	<text transform="matrix(0.3798 -0.9251 0.9251 0.3798 84.5801 184.3273)" class="st0 st1">T</text>
+	<text transform="matrix(0.497 -0.8678 0.8678 0.497 92.3612 165.1868)" class="st0 st1">T</text>
+	<g>
+		<circle class="st2" cx="234.9" cy="235.1" r="146"/>
+		<g>
+			<defs>
+				<circle id="SVGID_1_" cx="234.9" cy="235.1" r="146"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st3">
+				<text transform="matrix(1 0 0 1 88.084 287.6416)" class="st4 st5">B</text>
+				<text transform="matrix(1 0 0 1 88.084 287.6416)" class="st6 st4 st5">B</text>
+				<text transform="matrix(1 0 0 1 214.6543 394.2139)" class="st4 st7">S</text>
+			</g>
+		</g>
+	</g>
+</g>
 </svg>
